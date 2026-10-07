@@ -1,0 +1,23 @@
+{
+  "gallery": [
+    {
+      "id": "2f84745d-f3dd-4ceb-8eb2-1f39a9c07c66",
+      "title": "new activity",
+      "note": "photo",
+      "image_url": "http://localhost:5000/uploads/4a199d56f7d448029ebbe165dd186807_Screenshot_2025-05-29_085317.png",
+      "created_at": "2026-09-08T16:21:18.364768",
+      "archived": true,
+      "archive_date": "2026-09-08"
+    },
+    {
+      "id": "8599e366-870a-4685-b868-ae035bd19818",
+      "title": "image",
+      "note": "this is best image",
+      "image_url": "http://localhost:5000/uploads/6b433c0358004254bc3788944fb89860_133879115751818262.jpg",
+      "created_at": "2026-09-08T17:09:57.021716",
+      "archived": false,
+      "archive_date": "2026-09-09"
+    }
+  ],
+  "work": []
+}
