@@ -13,7 +13,7 @@
       "id": "8599e366-870a-4685-b868-ae035bd19818",
       "title": "image",
       "note": "this is best image",
-      "image_url": "http://localhost:5000/uploads/spotlight_award.jpg",
+      "image_url": "http://localhost:5000/uploads/spotlight_award.jpeg",
       "created_at": "2026-09-08T17:09:57.021716",
       "archived": false,
       "archive_date": "2026-09-09"
